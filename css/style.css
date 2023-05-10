@@ -1,0 +1,64 @@
+
+body {
+    background-color: greenyellow;
+}
+
+#bugs {
+    font-family: sans-serif;
+ text-align: center;
+}
+
+.Bugs {
+
+}
+
+.headings-3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; strong 
+}
+
+#introduction {
+
+}
+
+.that {
+ 
+}
+
+#Form {
+    background-image:url(./images/Running_gif.gif) no-repeat;
+}
+
+    a:link {
+        font-size: 150%;
+        text-decoration: none;
+        color: white;
+    }
+    a:visited {
+        font-size: 150%;
+        text-decoration: none ;
+        color: white;
+    }
+    a:hover {
+        font-size: 150%;
+        text-decoration: underline;
+    }
+    a:active {
+        text-decoration: underline ;
+    }
+
+/* Second link */
+    a.two:link {
+        text-decoration: none;
+        color: white;
+    }
+    a.two:visited {
+        color: whites;
+        text-decoration: none ;
+    }
+    a.two:hover {
+        text-decoration: underline;
+    }
+    a.two:active {
+        text-decoration: underline ;
+    }
+
